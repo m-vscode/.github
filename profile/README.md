@@ -8,4 +8,4 @@
 
 ### 2. Effect Tools(效率提升插件) [一键安装](https://marketplace.visualstudio.com/items?itemName=MisterZhouZhou.effect-tools)
 
-![Markdown Enjoy](/screenshoot/effect-tools)
+![Effect Tools](/screenshoot/effect-tools.png)
